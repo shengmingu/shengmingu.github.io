@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>意义不明 on HELLO</title>
+    <link>https://shengmingu.github.io/categories/%E6%84%8F%E4%B9%89%E4%B8%8D%E6%98%8E/</link>
+    <description>Recent content in 意义不明 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/categories/%E6%84%8F%E4%B9%89%E4%B8%8D%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WONDER WANDERING 奇迹的徘徊</title>
+      <link>https://shengmingu.github.io/posts/wonder-wandering/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/wonder-wandering/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/wonder-wandering/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>超级大战 on HELLO</title>
+    <link>https://shengmingu.github.io/series/%E8%B6%85%E7%BA%A7%E5%A4%A7%E6%88%98/</link>
+    <description>Recent content in 超级大战 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/series/%E8%B6%85%E7%BA%A7%E5%A4%A7%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>超级万人大战</title>
+      <link>https://shengmingu.github.io/posts/super10000battle/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/super10000battle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/super10000battle/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>超级千人大战</title>
+      <link>https://shengmingu.github.io/posts/super1000battle/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/super1000battle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/super1000battle/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>超级百人大战</title>
+      <link>https://shengmingu.github.io/posts/super100battle/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/super100battle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/super100battle/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>节日 on HELLO</title>
+    <link>https://shengmingu.github.io/categories/%E8%8A%82%E6%97%A5/</link>
+    <description>Recent content in 节日 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/categories/%E8%8A%82%E6%97%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我真的变成怪物了吗？</title>
+      <link>https://shengmingu.github.io/posts/%E6%88%91%E7%9C%9F%E7%9A%84%E5%8F%98%E6%88%90%E6%80%AA%E7%89%A9%E4%BA%86%E5%90%97/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E6%88%91%E7%9C%9F%E7%9A%84%E5%8F%98%E6%88%90%E6%80%AA%E7%89%A9%E4%BA%86%E5%90%97/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E6%88%91%E7%9C%9F%E7%9A%84%E5%8F%98%E6%88%90%E6%80%AA%E7%89%A9%E4%BA%86%E5%90%97/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

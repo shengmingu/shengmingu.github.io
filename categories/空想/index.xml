@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>空想 on HELLO</title>
+    <link>https://shengmingu.github.io/categories/%E7%A9%BA%E6%83%B3/</link>
+    <description>Recent content in 空想 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/categories/%E7%A9%BA%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>魔法少女企业</title>
+      <link>https://shengmingu.github.io/posts/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%BC%81%E4%B8%9A/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%BC%81%E4%B8%9A/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%BC%81%E4%B8%9A/featured.PNG" />
+    </item>
+    
+    <item>
+      <title>空想怪兽SIMULACRUM</title>
+      <link>https://shengmingu.github.io/posts/%E7%A9%BA%E6%83%B3%E6%80%AA%E5%85%BD/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E7%A9%BA%E6%83%B3%E6%80%AA%E5%85%BD/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E7%A9%BA%E6%83%B3%E6%80%AA%E5%85%BD/featured.JPG" />
+    </item>
+    
+    <item>
+      <title>WONDER WANDERING 奇迹的徘徊</title>
+      <link>https://shengmingu.github.io/posts/wonder-wandering/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/wonder-wandering/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/wonder-wandering/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

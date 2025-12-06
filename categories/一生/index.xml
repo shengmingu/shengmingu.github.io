@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一生 on HELLO</title>
+    <link>https://shengmingu.github.io/categories/%E4%B8%80%E7%94%9F/</link>
+    <description>Recent content in 一生 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/categories/%E4%B8%80%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>你幸福吗？</title>
+      <link>https://shengmingu.github.io/posts/%E4%BD%A0%E5%B9%B8%E7%A6%8F%E5%90%97/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E4%BD%A0%E5%B9%B8%E7%A6%8F%E5%90%97/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E4%BD%A0%E5%B9%B8%E7%A6%8F%E5%90%97/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>幸福论</title>
+      <link>https://shengmingu.github.io/posts/%E5%B9%B8%E7%A6%8F%E8%AE%BA/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E5%B9%B8%E7%A6%8F%E8%AE%BA/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E5%B9%B8%E7%A6%8F%E8%AE%BA/featured.JPG" />
+    </item>
+    
+    <item>
+      <title>我真的变成怪物了吗？</title>
+      <link>https://shengmingu.github.io/posts/%E6%88%91%E7%9C%9F%E7%9A%84%E5%8F%98%E6%88%90%E6%80%AA%E7%89%A9%E4%BA%86%E5%90%97/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E6%88%91%E7%9C%9F%E7%9A%84%E5%8F%98%E6%88%90%E6%80%AA%E7%89%A9%E4%BA%86%E5%90%97/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E6%88%91%E7%9C%9F%E7%9A%84%E5%8F%98%E6%88%90%E6%80%AA%E7%89%A9%E4%BA%86%E5%90%97/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>喜欢爸爸还是妈妈啊？</title>
+      <link>https://shengmingu.github.io/posts/%E5%96%9C%E6%AC%A2%E7%88%B8%E7%88%B8%E8%BF%98%E6%98%AF%E5%A6%88%E5%A6%88%E5%95%8A/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E5%96%9C%E6%AC%A2%E7%88%B8%E7%88%B8%E8%BF%98%E6%98%AF%E5%A6%88%E5%A6%88%E5%95%8A/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E5%96%9C%E6%AC%A2%E7%88%B8%E7%88%B8%E8%BF%98%E6%98%AF%E5%A6%88%E5%A6%88%E5%95%8A/featured.JPG" />
+    </item>
+    
+    <item>
+      <title>华子</title>
+      <link>https://shengmingu.github.io/posts/%E5%8D%8E%E5%AD%90/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E5%8D%8E%E5%AD%90/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E5%8D%8E%E5%AD%90/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

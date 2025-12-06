@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>某个小女孩的故事 on HELLO</title>
+    <link>https://shengmingu.github.io/series/%E6%9F%90%E4%B8%AA%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
+    <description>Recent content in 某个小女孩的故事 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/series/%E6%9F%90%E4%B8%AA%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%9A%84%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>幸福论</title>
+      <link>https://shengmingu.github.io/posts/%E5%B9%B8%E7%A6%8F%E8%AE%BA/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E5%B9%B8%E7%A6%8F%E8%AE%BA/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E5%B9%B8%E7%A6%8F%E8%AE%BA/featured.JPG" />
+    </item>
+    
+    <item>
+      <title>我把爸爸妈妈挂咸鱼上卖了</title>
+      <link>https://shengmingu.github.io/posts/%E6%88%91%E6%8A%8A%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E6%8C%82%E5%92%B8%E9%B1%BC%E4%B8%8A%E5%8D%96%E4%BA%86/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E6%88%91%E6%8A%8A%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E6%8C%82%E5%92%B8%E9%B1%BC%E4%B8%8A%E5%8D%96%E4%BA%86/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E6%88%91%E6%8A%8A%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E6%8C%82%E5%92%B8%E9%B1%BC%E4%B8%8A%E5%8D%96%E4%BA%86/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
