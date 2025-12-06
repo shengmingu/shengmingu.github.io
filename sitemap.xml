@@ -9,14 +9,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shengmingu.github.io/aboutme/</loc>
+    <loc>https://shengmingu.github.io/posts/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shengmingu.github.io/posts/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://shengmingu.github.io/posts/%E6%9C%AC%E6%AC%A1%E7%9A%84%E6%9B%B4%E6%96%B0/</loc>
+    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shengmingu.github.io/aboutme/</loc>
+    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
