@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>官能小说(大概吧) on HELLO</title>
+    <link>https://shengmingu.github.io/categories/%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AF%B4%E5%A4%A7%E6%A6%82%E5%90%A7/</link>
+    <description>Recent content in 官能小说(大概吧) on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 shengmingu</copyright>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/categories/%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AF%B4%E5%A4%A7%E6%A6%82%E5%90%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>小故事</title>
+      <link>https://shengmingu.github.io/posts/%E5%B0%8F%E6%95%85%E4%BA%8B/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shengmingu.github.io/posts/%E5%B0%8F%E6%95%85%E4%BA%8B/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E5%B0%8F%E6%95%85%E4%BA%8B/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
