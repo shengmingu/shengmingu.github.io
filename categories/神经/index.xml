@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>神经 on HELLO</title>
-    <link>http://localhost:1313/categories/%E7%A5%9E%E7%BB%8F/</link>
+    <link>https://shengmingu.github.io:1313/categories/%E7%A5%9E%E7%BB%8F/</link>
     <description>Recent content in 神经 on HELLO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 shengmingu</copyright>
-    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%A5%9E%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io:1313/categories/%E7%A5%9E%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WONDER WANDERING 奇迹的徘徊</title>
-      <link>http://localhost:1313/posts/wonder-wandering/</link>
+      <link>https://shengmingu.github.io:1313/posts/wonder-wandering/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wonder-wandering/</guid>
+      <guid>https://shengmingu.github.io:1313/posts/wonder-wandering/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wonder-wandering/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io:1313/posts/wonder-wandering/featured.png" />
     </item>
     
   </channel>
