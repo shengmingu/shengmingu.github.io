@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>精神疾病 on HELLO</title><link>https://shengmingu.github.io/categories/%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85/</link><description>Recent content in 精神疾病 on HELLO</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 shengmingu</copyright><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/categories/%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85/index.xml" rel="self" type="application/rss+xml"/><item><title>爱丽丝与长夏</title><link>https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>精神疾病 on HELLO</title>
+    <link>http://localhost:1313/categories/%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85/</link>
+    <description>Recent content in 精神疾病 on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 shengmingu</copyright>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>爱丽丝与长夏</title>
+      <link>http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

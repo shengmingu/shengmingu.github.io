@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SUMMERALICE on HELLO</title><link>https://shengmingu.github.io/series/summeralice/</link><description>Recent content in SUMMERALICE on HELLO</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 shengmingu</copyright><lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://shengmingu.github.io/series/summeralice/index.xml" rel="self" type="application/rss+xml"/><item><title>夏日爱丽丝</title><link>https://shengmingu.github.io/posts/%E5%A4%8F%E6%97%A5%E7%88%B1%E4%B8%BD%E4%B8%9D/</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://shengmingu.github.io/posts/%E5%A4%8F%E6%97%A5%E7%88%B1%E4%B8%BD%E4%B8%9D/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E5%A4%8F%E6%97%A5%E7%88%B1%E4%B8%BD%E4%B8%9D/featured.jpg"/></item><item><title>爱丽丝梦游国贸大厦</title><link>https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E5%9B%BD%E8%B4%B8%E5%A4%A7%E5%8E%A6/</link><pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate><guid>https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E5%9B%BD%E8%B4%B8%E5%A4%A7%E5%8E%A6/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E5%9B%BD%E8%B4%B8%E5%A4%A7%E5%8E%A6/featured.png"/></item><item><title>爱丽丝与长夏</title><link>https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shengmingu.github.io/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SUMMERALICE on HELLO</title>
+    <link>http://localhost:1313/series/summeralice/</link>
+    <description>Recent content in SUMMERALICE on HELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 shengmingu</copyright>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/summeralice/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>夏日爱丽丝</title>
+      <link>http://localhost:1313/posts/%E5%A4%8F%E6%97%A5%E7%88%B1%E4%B8%BD%E4%B8%9D/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E5%A4%8F%E6%97%A5%E7%88%B1%E4%B8%BD%E4%B8%9D/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/%E5%A4%8F%E6%97%A5%E7%88%B1%E4%B8%BD%E4%B8%9D/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>爱丽丝梦游国贸大厦</title>
+      <link>http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E5%9B%BD%E8%B4%B8%E5%A4%A7%E5%8E%A6/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E5%9B%BD%E8%B4%B8%E5%A4%A7%E5%8E%A6/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E5%9B%BD%E8%B4%B8%E5%A4%A7%E5%8E%A6/featured.png" />
+    </item>
+    
+    <item>
+      <title>爱丽丝与长夏</title>
+      <link>http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B8%8E%E9%95%BF%E5%A4%8F/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
